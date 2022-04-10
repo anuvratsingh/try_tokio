@@ -1,2 +1,2 @@
 [workspace]
-members = ["tower_service"]
+members = ["tower_service", "tower_timeout"]
